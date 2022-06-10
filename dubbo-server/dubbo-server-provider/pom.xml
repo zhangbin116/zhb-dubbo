@@ -50,7 +50,7 @@
         <dependency>
             <artifactId>dubbo</artifactId>
             <groupId>com.alibaba</groupId>
-            <version>2.5.3</version>
+            <version>2.6.12</version>
         </dependency>
         <dependency>
             <artifactId>dubbo-server-api</artifactId>
